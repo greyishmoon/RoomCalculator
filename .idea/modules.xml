@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoomCalculator.iml" filepath="$PROJECT_DIR$/.idea/modules/RoomCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoomCalculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RoomCalculator_main.iml" group="RoomCalculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoomCalculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RoomCalculator_test.iml" group="RoomCalculator" />
+    </modules>
+  </component>
+</project>
