@@ -4,7 +4,7 @@ Simple console Room Calculator - calculates room floor area, volume and paint re
 Build (Windows):
 In project root, run 'gradlew.bat build'.
 
-Run:
+Run:\n
 With JDK installed...
 in \build\libs\...
 run 'java -jar RoomCalculator-1.0.jar'
